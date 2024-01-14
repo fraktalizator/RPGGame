@@ -1,0 +1,26 @@
+{
+"com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle": {
+	"ButtonMenu": {
+		"up": "button",
+		"down": "buttonpress"
+	},
+	"saveclick": {
+		"up": "save(NEW)",
+		"down": "saveclick(NEW)"
+	},
+	"ButtonMoreInfo": {
+		"up": "buttonsaveinfo",
+		"down": "buttonsaveinfoclick"
+	},
+	"InfoButton": {
+		"up": "infosavestats(NEW)",
+		"down": "infosavestatsclick"
+	}
+},
+"com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle": {
+	"default-vertical": {
+		"background": "scrollback",
+		"knob": "scrollbutton"
+	}
+}
+}

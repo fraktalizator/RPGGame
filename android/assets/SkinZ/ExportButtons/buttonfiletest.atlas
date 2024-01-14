@@ -1,0 +1,90 @@
+
+buttonfiletest.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+button
+  rotate: false
+  xy: 1, 214
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+buttonpress
+  rotate: false
+  xy: 1, 167
+  size: 200, 45
+  orig: 200, 45
+  offset: 0, 0
+  index: -1
+buttonsaveinfo
+  rotate: false
+  xy: 775, 446
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+buttonsaveinfoclick
+  rotate: false
+  xy: 1, 150
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+infosavestats(NEW)
+  rotate: false
+  xy: 1, 362
+  size: 772, 99
+  orig: 772, 99
+  offset: 0, 0
+  index: -1
+infosavestatsclick
+  rotate: false
+  xy: 1, 261
+  size: 772, 99
+  orig: 772, 99
+  offset: 0, 0
+  index: -1
+progresbarbackround
+  rotate: false
+  xy: 831, 1002
+  size: 192, 19
+  orig: 192, 19
+  offset: 0, 0
+  index: -1
+progressloading
+  rotate: false
+  xy: 203, 242
+  size: 190, 17
+  orig: 190, 17
+  offset: 0, 0
+  index: -1
+save(NEW)
+  rotate: false
+  xy: 1, 743
+  size: 828, 278
+  orig: 828, 278
+  offset: 0, 0
+  index: -1
+saveclick(NEW)
+  rotate: false
+  xy: 1, 463
+  size: 828, 278
+  orig: 828, 278
+  offset: 0, 0
+  index: -1
+scrollback
+  rotate: false
+  xy: 831, 596
+  size: 12, 404
+  orig: 12, 404
+  offset: 0, 0
+  index: -1
+scrollbutton
+  rotate: false
+  xy: 203, 221
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
